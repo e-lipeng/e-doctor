@@ -13,6 +13,22 @@
                         <key>url</key>
                         <string>https://github.com/e-lipeng/e-doctor/blob/master/doctor/doctor.ipa</string>
                     </dict>
+					<dict>  
+                    	<key>kind</key>  
+	                    <string>full-size-image</string>  
+    	                <key>needs-shine</key>  
+        	            <true/>  
+            	        <key>url</key>  
+                    	<string>https://raw.githubusercontent.com/e-lipeng/e-doctor/master/doctor/icon_doctor@2x.png</string>  
+                	</dict>  
+	                <dict>  
+    	                <key>kind</key>  
+        	            <string>display-image</string>  
+            	        <key>needs-shine</key>  
+                	    <true/>  
+                    	<key>url</key>  
+	                    <string>https://raw.githubusercontent.com/e-lipeng/e-doctor/master/doctor/icon_doctor.png</string>  
+    	            </dict>                      
                 </array>
                 <key>metadata</key>
                 <dict>
