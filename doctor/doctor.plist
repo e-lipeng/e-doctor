@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/e-lipeng/e-doctor/blob/master/doctor/doctor.ipa</string>
+                        <string>https://raw.githubusercontent.com/e-lipeng/e-doctor/master/doctor/doctor.ipa</string>
                     </dict>
 					<dict>  
                     	<key>kind</key>  
